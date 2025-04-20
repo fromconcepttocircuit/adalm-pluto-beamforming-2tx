@@ -2,7 +2,7 @@
 
 This project demonstrates real-time **RF beamforming** using two ADALM-Pluto SDRs. By enabling dual TX channels on one Pluto and using the second Pluto as a receiver, this Python script sweeps the transmit phase and plots received power—allowing you to **visualize the beam steering effect** in a simple phased array.
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the video](https://img.youtube.com/vi/L6Dt44zIJ9E/0.jpg)](https://www.youtube.com/watch?v=L6Dt44zIJ9E)
 
 ---
 
