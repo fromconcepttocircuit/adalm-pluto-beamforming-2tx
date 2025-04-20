@@ -89,6 +89,10 @@ For more, see the [official Analog Devices customization guide](https://wiki.ana
 
 ---
 
+## ☕ Support My Work  
+If you find this project helpful, consider supporting me:  
+[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
+
 ## 📄 License
 
 This project is open-source and licensed under the MIT License.
